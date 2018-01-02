@@ -7,7 +7,7 @@ var server = http.createServer(function(req, res) {
 //npm run build
 
 //git add .
-//git commit -m "..."
+//git commit -m "..." | git commit -a -m "..." | git commit --amend
 //git push  
 //git pull |  git checkout -b dev origin/dev
 //git checkout dev
