@@ -6,8 +6,8 @@ var server = http.createServer(function(req, res) {
 //touch tmp/restart.txt
 //npm run build
 
-//git add .
-//git commit -m "..."
+//git checkout dev
+//git status | git commit -a -m "..."
 //git push /pull
 
 if( req.url == "/" ){
