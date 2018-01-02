@@ -8,7 +8,7 @@ var server = http.createServer(function(req, res) {
 
 //git add .
 //git commit -m "..."
-//git push /pull
+//git push /pull  1
 
 if( req.url == "/" ){
     
