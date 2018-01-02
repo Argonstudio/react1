@@ -6,7 +6,12 @@ var server = http.createServer(function(req, res) {
 //touch tmp/restart.txt
 //npm run build
 
+//git add .
+//git commit -m "..."
+//git push  
+//git pull |  git checkout -b dev origin/dev
 //git checkout dev
+//git branch //список веток
 
 if( req.url == "/" ){
     
